@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LillianNtshingila
+👋 Hi, I’m @LillianNtshingila
 Pronouns: She/her
 
 💻 Data Analyst | 📊 Power BI Enthusiast | 🐍 SQL & Python Geek
