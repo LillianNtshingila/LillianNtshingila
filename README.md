@@ -2,7 +2,7 @@
 Pronouns: She/her
 
 💻 Data Analyst | 📊 Power BI Enthusiast | 🐍 SQL & Python Geek
-I'm passionate about turning data into clear, actionable insights through visualization and analysis. I enjoy learning new tools and collaborating with others to build impactful data solutions.
+ - I'm passionate about turning data into clear, actionable insights through visualization and analysis. I enjoy learning new tools and collaborating with others to build impactful data solutions.
 
 🌟 What I Do:
 - 📈 Create Data Visualizations: Design insightful dashboards using Power BI and Tableau to help stakeholders understand data trends and make informed decisions.
