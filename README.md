@@ -1,5 +1,5 @@
 👋 Hi, I’m @LillianNtshingila
-Pronouns: She/her
+ - Pronouns: She/her
 
 💻 Data Analyst | 📊 Power BI Enthusiast | 🐍 SQL & Python Geek
  - I'm passionate about turning data into clear, actionable insights through visualization and analysis. I enjoy learning new tools and collaborating with others to build impactful data solutions.
